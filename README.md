@@ -2,9 +2,6 @@
 
 This is very minimal youtube clone done with flutter, this is strictly a UI and not alot of functionalitites of the original app are present but you get too see a similar design to that of the regular famous youtube home screen.
 
-.
-
-
 
 
 ![Screenshot_20230506-151431](https://user-images.githubusercontent.com/130862856/236630372-30f663c2-e6c0-476a-9e6e-2a754f74a0de.jpg)
